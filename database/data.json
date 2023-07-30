@@ -1,0 +1,14 @@
+[
+    {
+        "id": 10,
+        "name": "Batman",
+        "age": 50,
+        "power": "rich"
+    },
+    {
+        "id": "b82c7c0a-8f7b-437a-ba3b-35280127e61b",
+        "name": "Batman",
+        "age": 50,
+        "power": "rich"
+    }
+]
